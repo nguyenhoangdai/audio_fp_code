@@ -1,3 +1,17 @@
+###########################################################################
+# Copyright (C) 2022 Shekhar Chalise, Hoang Dai Nguyen                    #
+# schalise@my.uno.edu , hdnguye5@my.uno.edu                               #
+#                                                                         #
+# Distributed under the GNU Public License v3.0	                          #
+# https://www.gnu.org/licenses/gpl-3.0.en.html                            #
+#                                                                         #
+# This program is free software; you can redistribute it and/or modify    #
+# it under the terms of the GNU General Public License as published by    #
+# the Free Software Foundation; either version 3 of the License, or       #
+# (at your option) any later version.                                     #
+#                                                                         #
+###########################################################################
+
 import * as CodecDetect from "codec-detect";
 
 // declare varibles
