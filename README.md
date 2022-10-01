@@ -5,4 +5,4 @@ This repository contains the code used for our IMC 2022 paper:
 We created a website that hosts the fingerprinting code that we used for this project: 
 https://audio-fp.web.app.
 
-We will also make our audio fingerprinting source code available soon.
+Our audio fingerprinting source code is at "code.ts" file. 
